@@ -1,7 +1,3 @@
-```
-
----
-
 ## 💻 Modo de Ejecución
 Sigue estos pasos para iniciar el asistente[cite: 2, 10]:
 
