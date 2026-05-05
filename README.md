@@ -84,8 +84,7 @@ El sistema aplica una jerarquía lógica para resolver conflictos:
 ---
 
 ## ⚖️ Licencia
-Este proyecto ha sido desarrollado como **Proyecto Final** para el módulo de Modelos de Inteligencia Artificial[cite: 10].
+Este proyecto ha sido desarrollado como **Proyecto Final** para el módulo de Modelos de Inteligencia Artificial.
 
-**Autor:** Pako García[cite: 10]
-**Pseudónimo:** PKROT[cite: 10]
+**Autor:** Pako García
 ```
