@@ -1,0 +1,11 @@
+experta
+transformers
+torch
+SpeechRecognition
+pyttsx3
+PyAudio
+nltk
+fpdf2
+protobuf
+sentencepiece
+tiktoken
